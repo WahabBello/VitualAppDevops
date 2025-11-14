@@ -2,7 +2,7 @@
 
 ## 📋 Table of Contonts
 - [Overview](#-overview)
-- [Architecture Diagram](#-architecture-diagram)
+- [Architecture Diagram](#architecture-diagram)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
 - [Deployment Methods](#-deployment-methods)
@@ -26,12 +26,10 @@ It is designed as a real-world setup to practice DevOps, automation, provisionin
 
 
 ---
-
 ## 🏗️ Architecture Diagram
 
 Voici l’architecture globale du projet :
 
-![Architecture](./image.png)
 
 ```mermaid
 flowchart LR
