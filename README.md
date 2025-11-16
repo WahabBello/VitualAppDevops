@@ -2,7 +2,7 @@
 
 ## 📋 Table of Contonts
 - [Overview](#-overview)
-- [Architecture Diagram](#architecture-diagram)
+- [Architecture Diagram](#️-architecture-diagram)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
 - [Deployment Methods](#-deployment-methods)
